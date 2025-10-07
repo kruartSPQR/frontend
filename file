@@ -1,0 +1,14 @@
+✅  Tunnel successfully started
+
+📌  NOTE: Please do not close this terminal as this process must stay alive for the tunnel to be accessible ...
+
+❗  The service/ingress app5-ingress requires privileged ports to be exposed: [80 443]
+🔑  sudo permission will be asked for it.
+✋  Stopped tunnel for service app5-ingress.
+✅  Tunnel successfully started
+
+📌  NOTE: Please do not close this terminal as this process must stay alive for the tunnel to be accessible ...
+
+❗  The service/ingress app5-ingress requires privileged ports to be exposed: [80 443]
+🔑  sudo permission will be asked for it.
+✋  Stopped tunnel for service app5-ingress.
